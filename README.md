@@ -31,4 +31,4 @@ Si vous voyez quelque chose qui ne va pas, contactez nous à paris at pyladies.c
 
 En tant qu'organisateurs-trices, nous tenons à respecter les même standards.
 
-Ce Code de conduite est une adaptation du conde de conduite de la [communauté globale PyLadies](https://pyladies.com/CodeOfConduct), qui a été lui-même adapté du site [Plone Foundation](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct) and est soumi à la licence [Creative Commons Attribution-Share Alike 3.0 Unported license].
+Ce Code de conduite est une adaptation du conde de conduite de la [communauté globale PyLadies](https://pyladies.com/CodeOfConduct), qui a été lui-même adapté du site [Plone Foundation](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct) and est soumi à la licence [Creative Commons Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/).
